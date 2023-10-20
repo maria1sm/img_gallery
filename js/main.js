@@ -33,8 +33,8 @@ console.log("tilt is active")
 console.log("tilt is inactive")
 }
 
-/*VanillaTilt.init(imageTilt, {
+VanillaTilt.init(imageTilt, {
     max: 25,
     speed: 400,
     reverse: true
-})*/
+})
